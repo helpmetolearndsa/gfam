@@ -1,0 +1,115 @@
+body{
+    background-color:rgb(150, 136, 211);
+}
+
+.name{
+    font-size: larger;
+    font-style: bold;
+    background-color:rgb(135, 161, 141);
+    border-color: black;
+    border-style:double;
+    height: 50px;
+    margin: 10px 400px;
+    padding:0px 10px;
+}
+
+#h{
+    background-color: darkolivegreen;
+    border-color: aliceblue;
+    border-style:dark;
+    height: 50px;
+    /* margin: 50px; */
+    font-style:initial;
+}
+
+#introduction
+{
+    background-color:violet;
+    border-style:dotted ;
+    padding:20px;
+    margin:45px;
+}
+
+#h1{
+    background-color:rgb(255, 255, 255) ;
+    border-color:brown;
+    border-style:dashed;
+    height: 50px;
+    margin:5px
+}
+
+.family{
+
+    background-color: rgb(112, 112, 47);
+    /* background-image: url('bg.jpg');
+    background-repeat: no-repeat; */
+    border-style: groove ;
+    border-color:crimson;
+    border-width:15px
+    /* margin:20px ; */
+    /* padding: 20px 0px 20px 1000px; */
+
+}
+
+#papa{
+    border-color: rgb(223, 84, 53);
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+    margin: 20px 800px 20px 20px;
+    padding:20px 20px 20px 75px
+    /* right most */
+}
+#mummy{
+    border-color: rgb(232, 61, 237);
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin: 20px 500px 20px 400px;
+    padding:20px 20px 20px 35px
+    /* mid */
+}
+#bhaiya{
+    border-color: blue;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    margin: 20px 20px 20px 800px;
+    padding:10px 10px 10px 75px ;
+    
+    /* left most */
+}
+#bhabhi{
+    border-color: rgb(255, 166, 1);
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: 20px 800px 20px 20px;
+    padding: 20px 20px 20px 75px;
+}
+#jiji1{
+    border-color: rgb(255, 234, 0);
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin: 20px 20px 20px 800px;
+    padding:10px 10px 10px 60px ;
+    
+
+}
+#jija{
+    border-color: rgb(0, 179, 255);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 20px 500px 20px 400px;
+    padding:20px 20px 20px 50px
+}
+#jiji2{
+    border-color: rgb(17, 218, 147);
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin: 20px 800px 20px 20px;
+    padding: 20px 20px 20px 75px;
+}
+#me{
+    border-color: rgb(212, 26, 218);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 20px 500px 20px 400px;
+    padding:20px 20px 20px 35px
+    
+}
+#bai{
+    border-color: rgb(230, 23, 23);
+    font-family: 'Courier New', Courier, monospace;
+    margin: 20px 20px 20px 800px;
+    padding:10px 10px 10px 75px ;
+}
